@@ -1,2 +1,3 @@
-# my-promo
-My promo site for freelance
+#Promo
+[Оставить заявку](http://yarkirs.ru)
+Верска за три часа
